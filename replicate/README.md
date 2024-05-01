@@ -23,3 +23,17 @@ export REPLICATE_API_TOKEN=<paste-your-token-here>
 ```bash
 python <script_name>.py
 ```
+
+
+# Extra
+For `youtube_transcription.py`, you need to install ffmpeg using the following command:
+
+- Linux:
+```bash
+sudo apt-get install ffmpeg
+```
+
+- MacOs:
+```bash
+brew install ffmpeg
+```
