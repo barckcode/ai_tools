@@ -1,5 +1,5 @@
 # Steps to use any of scripts in this folder
-1. Install the required libraries using the following command:
+1. Create a virtual environment using the following command:
 ```bash
 python -m venv .venv
 ```
@@ -25,7 +25,7 @@ python <script_name>.py
 ```
 
 
-# Extra
+## Extra
 For `youtube_transcription.py`, you need to install ffmpeg using the following command:
 
 - Linux:
